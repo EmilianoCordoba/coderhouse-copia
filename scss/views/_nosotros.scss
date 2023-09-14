@@ -1,0 +1,27 @@
+/* Estilos de la pagina nosotros */
+
+.contenedor {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+.img {
+    img {
+        width: 70%;
+        height: 25%;
+        margin-left: 5rem; 
+        border-radius: 10px; 
+    }
+}
+
+.historia {
+    align-items: flex-end;
+    font-family: 'Poppins', sans-serif;
+    width: 45%;
+    margin-left: 0px;
+    margin-right: 10rem;
+    background-color: $background-color;
+    padding: 1rem;
+    border-radius: 10px;
+}

@@ -1,0 +1,8 @@
+/* Estilos de la imagen del inicio */
+
+.delicias {
+    @include estilos-base(80%,auto,50px,10%);
+    border-radius: 10px;
+}
+
+
